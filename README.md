@@ -396,21 +396,43 @@ My long-term goal is to become a **skilled full-stack/software developer** capab
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-as-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akash's GitHub Stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-as-07&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="Akash's GitHub Activity Graph">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-as-07&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-as-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Akash's GitHub Stats">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-as-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-as-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages">
 </p>
 
 ---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-as-07/Akash-as-07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-as-07/Akash-as-07/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Akash-as-07/Akash-as-07/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 🚀 Development Activity
+
+<p align="center">
+
+**💻 Code**   •  
+**🧠 Learn**   •  
+**🐛 Debug**   •  
+**🚀 Build**   •  
+**📈 Improve**
+
+</p>
 
 # 🌐 Connect With Me
 
