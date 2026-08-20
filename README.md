@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akash Sahu
 
-### 💻 Frontend Developer | Full-Stack Development Learner
+### 💻 Web Developer | Full-Stack Development Learner
 
 I am a passionate developer focused on building modern, responsive and
 user-friendly web applications.
@@ -54,26 +54,30 @@ Cybersecurity • UI/UX • REST APIs • Software Development
 
 ### 🎫 Aurelia Event Management
 
-Full-stack event management platform with frontend,
-backend APIs, authentication and MongoDB integration.
+A full-stack event management platform designed to manage
+events, users and administrative operations.
 
 **Tech:** React • Node.js • Express • MongoDB
+
+🔗 [View Project](https://github.com/Akash-as-07)
 
 ---
 
 ### 🌐 Personal Portfolio
 
-Responsive personal portfolio showcasing my skills,
-projects, experience and development journey.
+A modern responsive portfolio website showcasing my
+skills, projects, experience and development journey.
 
 **Tech:** HTML • CSS • JavaScript
+
+🔗 [View Project](https://github.com/Akash-as-07/portfolio-website)
 
 ---
 
 ### 🎲 Ludo Game
 
-Interactive Ludo game project focused on game logic,
-UI design and player interaction.
+An interactive Ludo game focused on game logic,
+player interaction and responsive UI.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -83,29 +87,38 @@ UI design and player interaction.
 
 ### Reliance Jio — JAT Program Intern
 
-3-month internship experience with exposure to
-professional teamwork, communication and workplace practices.
+**Duration:** 3 Months
+
+Developed professional experience through teamwork,
+communication, workplace collaboration and practical tasks.
 
 ### NALCO — Computer Operator
 
-1 year of practical experience working with computer
-operations and professional workflows.
+**Duration:** 1 Year
+
+Gained practical experience in computer operations,
+professional workflows, communication and workplace responsibility.
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
+HTML / CSS
+     ↓
+JavaScript
+     ↓
 React
-  ↓
+     ↓
 Node.js
-  ↓
+     ↓
 Express.js
-  ↓
-MongoDB
-  ↓
+     ↓
+MongoDB / SQL
+     ↓
 REST APIs
-  ↓
+     ↓
 Full-Stack Development
-  ↓
+     ↓
 Cybersecurity
+
