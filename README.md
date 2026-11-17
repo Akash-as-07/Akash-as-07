@@ -1,466 +1,332 @@
-# 👋 Hi, I'm Akash Sahu
+# 👨‍💻 Akash Sahu | Full-Stack Developer in Progress
 
-### 💻 Web Developer · Full-Stack Development Learner · Software Development Enthusiast
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/Akash-as-07">
-    <img src="https://img.shields.io/badge/GitHub-Akash--as--07-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Web%20Development-Active-0A66C2?style=for-the-badge" alt="Web Development">
-  <img src="https://img.shields.io/badge/Full--Stack-Learning-6C63FF?style=for-the-badge" alt="Full Stack">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0F172A,50:1D4ED8,100:06B6D4&text=AKASH%20SAHU&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=WEB%20DEVELOPER%20%7C%20SOFTWARE%20DEVELOPMENT%20ENTHUSIAST&descSize=15&descAlignY=65&animation=fadeIn" width="100%" />
 
-> **Building modern web experiences, learning full-stack technologies, and turning ideas into practical software.**
-
-I’m a passionate **Web Developer and aspiring Software Developer** focused on creating modern, responsive, scalable, and user-friendly applications.
-
-I enjoy transforming ideas into real-world projects while continuously improving my skills in **frontend development, backend engineering, databases, APIs, software development, and cybersecurity fundamentals**.
-
----
-
-## 🚀 About Me
-
-* 🎓 Student & aspiring software developer
-* 💻 Focused on modern web development
-* 🌐 Learning frontend and full-stack application development
-* ⚛️ Exploring React and component-based development
-* 🖥️ Building backend applications with Node.js & Express.js
-* 🗄️ Working with MongoDB and MySQL
-* 🔗 Learning REST API development and integration
-* 🔐 Exploring cybersecurity fundamentals
-* 🧩 Interested in software architecture and problem solving
-* 🚀 Building practical real-world projects
-* 📚 Continuously learning new technologies
-* 🎯 Working toward becoming a professional full-stack developer
-
----
-
-# 🧠 Technical Skills
-
-## 🎨 Frontend Development
+### Building Digital Experiences. Engineering Solutions. Learning Every Day.
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;Full-Stack+Development+Learner;React+%7C+Node.js+%7C+MongoDB;Software+Development+Enthusiast;Turning+Ideas+Into+Real+Projects" />
 </p>
 
-**Focus Areas**
+<a href="https://github.com/Akash-as-07">
+  <img src="https://img.shields.io/badge/GitHub-Akash--as--07-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Akash-as-07/portfolio-website">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-* Responsive Web Design
-* Modern UI Development
-* Component-Based Architecture
-* DOM Manipulation
-* JavaScript Fundamentals
-* React Fundamentals
-* UI/UX Principles
-* Mobile-Friendly Interfaces
+<img src="https://komarev.com/ghpvc/?username=Akash-as-07&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## ⚙️ Backend Development
+## 👋 About Me
+
+I'm **Akash Sahu**, a student, web developer, and aspiring software engineer passionate about building modern digital products and practical software solutions.
+
+I enjoy exploring how applications work, designing responsive interfaces, developing backend systems, connecting databases, and transforming ideas into functional projects.
+
+My development journey focuses on combining technical knowledge, creative problem-solving, and continuous learning.
+
+- 🎓 Student and aspiring software developer
+- 💻 Interested in full-stack web application development
+- ⚛️ Exploring React and modern frontend architecture
+- ⚙️ Learning Node.js, Express.js and backend engineering
+- 🗄️ Working with MongoDB and MySQL
+- 🔗 Exploring REST API development and integration
+- 🔐 Interested in cybersecurity and application security
+- 🚀 Building practical development projects
+- 📚 Continuously improving programming and problem-solving skills
+
+> "Great software is built through curiosity, consistency, experimentation, and continuous improvement."
+
+---
+
+## 🧠 Technical Skills & Technology Stack
+
+### 🎨 Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
-**Focus Areas**
+**Areas of Focus**
+- Responsive Web Design
+- Modern UI Development
+- Component-Based Architecture
+- JavaScript Fundamentals
+- React Components and Hooks
+- DOM Manipulation
+- UI/UX Principles
 
-* RESTful APIs
-* Server-Side Development
-* API Integration
-* Authentication & Authorization
-* CRUD Operations
-* Middleware
-* Backend Architecture
-* Error Handling
-
----
-
-## 🗄️ Database Technologies
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
-**Learning & Working With**
+**Areas of Focus**
+- Server-Side Development
+- RESTful API Development
+- API Integration
+- Authentication and Authorization
+- CRUD Operations
+- Middleware
+- Error Handling
 
-* Database Design
-* CRUD Operations
-* SQL Queries
-* MongoDB Collections
-* Data Relationships
-* Database Integration
-* Backend Database Connectivity
-
----
-
-## 💻 Programming Languages
+### 🗄️ Database Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
----
+**Areas of Focus**
+- Database Design
+- SQL Queries
+- MongoDB Collections
+- CRUD Operations
+- Data Relationships
+- Database Connectivity
 
-# 🛠️ Development Tools
+### 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
 </p>
 
-**Development Workflow**
+### 🛠️ Development Tools
 
-```text
-Plan
-  ↓
-Design
-  ↓
-Develop
-  ↓
-Test
-  ↓
-Debug
-  ↓
-Optimize
-  ↓
-Deploy
-```
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=dark" />
+</p>
 
 ---
 
-# 🌟 Featured Projects
+## 🚀 Featured Projects
 
-## 🎫 Aurelia Event Management
+### 01. 🎫 Aurelia Event Management
 
-A full-stack event management platform designed to provide a structured system for managing **events, users, administrative operations, and application data**.
+A full-stack event management application designed to organize event-related operations, user interactions, administrative functionality, and application data.
 
-### 🔧 Technology Stack
+**Technology Stack**
 
-```text
-Frontend     → React
-Backend      → Node.js + Express.js
-Database     → MongoDB
-API          → REST API
-Architecture → Full-Stack Web Application
-```
+`React` `Node.js` `Express.js` `MongoDB` `REST API`
 
-### ✨ Key Areas
+**Key Development Areas**
+- Event Management
+- User Management
+- Administrative Operations
+- Authentication Architecture
+- REST API Integration
+- MongoDB Connectivity
+- Responsive Frontend
 
-* Event management
-* User management
-* Administrative operations
-* REST API integration
-* MongoDB database connectivity
-* Authentication architecture
-* Responsive frontend
-* Backend API development
-
-🔗 **Repository:**
-https://github.com/Akash-as-07
+🔗 [Explore My GitHub Repositories](https://github.com/Akash-as-07)
 
 ---
 
-## 🌐 Personal Portfolio Website
+### 02. 🌐 Personal Portfolio Website
 
-A modern responsive portfolio website created to showcase my **skills, projects, experience, learning journey, and professional profile**.
+A responsive personal portfolio designed to showcase development skills, projects, experience, and professional information.
 
-### 🔧 Technology Stack
+**Technology Stack**
 
-```text
-HTML5
-CSS3
-JavaScript
-Responsive Design
-Modern UI/UX
-```
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
 
-### ✨ Highlights
+**Key Features**
+- Responsive User Interface
+- Modern Visual Design
+- Professional Introduction
+- Skills and Projects Showcase
+- Experience Section
+- Contact Section
 
-* Responsive design
-* Modern interface
-* Developer-focused presentation
-* Project showcase
-* Skills section
-* Experience section
-* Contact section
-* Mobile-friendly layout
-
-🔗 **Repository:**
-https://github.com/Akash-as-07/portfolio-website
+🔗 [View Portfolio Repository](https://github.com/Akash-as-07/portfolio-website)
 
 ---
 
-## 🎲 Ludo Game
+### 03. 🎲 Interactive Ludo Game
 
-An interactive browser-based Ludo game focused on **game logic, player interaction, board design, responsive UI, and JavaScript-based functionality**.
+A browser-based Ludo game developed to explore JavaScript programming, interactive interfaces, game logic, and player interactions.
 
-### 🔧 Technology Stack
+**Technology Stack**
 
-```text
-HTML
-CSS
-JavaScript
-Game Logic
-Responsive UI
-```
+`HTML` `CSS` `JavaScript`
 
-### ✨ Development Focus
+**Development Areas**
+- Interactive Game Board
+- Dice Mechanics
+- Player Movement
+- Game State Management
+- JavaScript Logic
+- Responsive Interface
 
-* Interactive game board
-* Player interaction
-* Game-state management
-* Dice mechanics
-* Player movement
-* Responsive interface
-* JavaScript logic
-
-🔗 **GitHub:**
-https://github.com/Akash-as-07
+🔗 [Explore GitHub](https://github.com/Akash-as-07)
 
 ---
 
-# 📊 Development Focus
+## 💼 Professional Experience
+
+### 🏢 Reliance Jio — JAT Program Intern
+
+**Duration:** 3 Months
+
+Gained practical workplace exposure through professional tasks, teamwork, communication, collaboration, and organizational workflows.
+
+**Key Learnings**
+- Professional Communication
+- Team Collaboration
+- Problem Solving
+- Workplace Discipline
+- Task Coordination
+
+### 🏢 NALCO — Computer Operator
+
+**Duration:** 1 Year
+
+Developed practical experience in computer operations, data handling, workplace processes, and professional responsibilities.
+
+**Key Learnings**
+- Computer Operations
+- Data Handling
+- Professional Workflows
+- Communication
+- Workplace Coordination
+
+---
+
+## 📚 Current Learning Roadmap
+
+My current learning journey is focused on developing strong foundations in software engineering and full-stack application development.
+
+| Technology | Learning Focus |
+|---|---|
+| HTML & CSS | Responsive Interfaces |
+| JavaScript | Programming Fundamentals |
+| React | Frontend Architecture |
+| Node.js | Backend Development |
+| Express.js | REST API Development |
+| MongoDB | NoSQL Database |
+| MySQL | Relational Database |
+| Python | Programming Fundamentals |
+| Git & GitHub | Version Control |
+| Cybersecurity | Security Fundamentals |
+
+---
+
+## 🔐 Cybersecurity & Software Security
+
+Beyond application development, I'm interested in understanding how software systems can be protected against security vulnerabilities.
+
+**Learning Path**
 
 ```text
-Frontend Development
-        │
-        ▼
-HTML → CSS → JavaScript
-        │
-        ▼
-      React
-        │
-        ▼
-Backend Development
-        │
-        ▼
-Node.js → Express.js
-        │
-        ▼
-Database
-        │
-        ├── MongoDB
-        └── MySQL
-        │
-        ▼
-REST APIs
-        │
-        ▼
-Full-Stack Applications
-        │
-        ▼
+Computer Networking
+        ↓
+Linux Fundamentals
+        ↓
+Web Technologies
+        ↓
+Authentication & Authorization
+        ↓
+Web Application Security
+        ↓
+Security Testing
+        ↓
 Cybersecurity Fundamentals
 ```
 
 ---
 
-# 💼 Professional Experience
+## 📊 GitHub Analytics
 
-## 🏢 Reliance Jio — JAT Program Intern
+<div align="center">
 
-**Duration:** 3 Months
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akash-as-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-Gained practical workplace experience through professional tasks, teamwork, communication, collaboration, and exposure to real-world organizational workflows.
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-as-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-### Key Learning
+<br/>
 
-* 🤝 Team collaboration
-* 💬 Professional communication
-* 🧠 Problem solving
-* 📋 Workplace discipline
-* 🚀 Practical work experience
-* 👥 Teamwork and coordination
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-as-07&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-## 🏢 NALCO — Computer Operator
+## 🐍 Contribution Activity
 
-**Duration:** 1 Year
+<div align="center">
 
-Gained practical experience in computer operations, professional workflows, workplace communication, data handling, and organizational responsibilities.
+<img src="https://raw.githubusercontent.com/Akash-as-07/Akash-as-07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
-### Key Learning
-
-* 💻 Computer operations
-* 📊 Data handling
-* 🗂️ Professional workflows
-* 💬 Communication
-* 🤝 Workplace collaboration
-* 🎯 Responsibility and discipline
+</div>
 
 ---
 
-# 📚 Currently Learning
+## 🎯 Development Goals — 2026
 
-### 🔥 Current Learning Path
-
-| Area                    | Focus                                |
-| ----------------------- | ------------------------------------ |
-| 🌐 Web Development      | Modern responsive websites           |
-| ⚡ JavaScript            | Advanced fundamentals & DOM          |
-| ⚛️ React                | Components & application development |
-| 🟢 Node.js              | Backend development                  |
-| 🚂 Express.js           | REST API development                 |
-| 🗄️ MongoDB             | NoSQL database development           |
-| 🐬 MySQL                | Relational databases & SQL           |
-| 🔗 REST APIs            | Backend ↔ Frontend integration       |
-| 🔐 Cybersecurity        | Security fundamentals                |
-| 🧩 Software Development | Architecture & best practices        |
+- [ ] Strengthen JavaScript fundamentals
+- [ ] Improve React development skills
+- [ ] Build production-style full-stack applications
+- [ ] Develop scalable Node.js APIs
+- [ ] Improve database design and optimization
+- [ ] Understand authentication and authorization
+- [ ] Learn deployment and cloud fundamentals
+- [ ] Strengthen cybersecurity knowledge
+- [ ] Improve software architecture skills
+- [ ] Build a stronger professional portfolio
+- [ ] Contribute to open-source projects
 
 ---
 
-# 🎯 2026 Development Goals
+## 🧩 My Development Philosophy
 
-* [ ] Build more production-style full-stack applications
-* [ ] Strengthen JavaScript fundamentals
-* [ ] Become more confident with React
-* [ ] Build scalable Node.js APIs
-* [ ] Improve MongoDB and SQL skills
-* [ ] Learn authentication and authorization
-* [ ] Improve Git & GitHub workflow
-* [ ] Learn deployment fundamentals
-* [ ] Strengthen cybersecurity knowledge
-* [ ] Build a stronger professional portfolio
-* [ ] Contribute to open-source projects
+<div align="center">
 
----
+### Learn → Build → Break → Debug → Improve → Repeat
 
-# 🔐 Cybersecurity Journey
+</div>
 
-I am also exploring the fundamentals of cybersecurity with an interest in understanding how modern applications can be **secured, tested, and protected**.
+I believe becoming a better developer requires more than learning programming languages.
 
-### Areas of Interest
+It requires understanding problems, experimenting with solutions, debugging failures, writing maintainable code, and continuously improving.
 
-```text
-Networking
-   ↓
-Linux
-   ↓
-Web Security
-   ↓
-Authentication
-   ↓
-Application Security
-   ↓
-Security Testing
-   ↓
-Cybersecurity
-```
+**My Development Principles**
+
+- 🧠 Understand before implementing.
+- 🛠️ Build projects to gain practical experience.
+- 🐛 Debug to understand the root cause.
+- 🔍 Write clean and maintainable code.
+- ⚡ Focus on usability and performance.
+- 🔐 Consider security from the beginning.
+- 📈 Improve with every project.
 
 ---
 
-# 🧩 Development Philosophy
+## 🌐 Let's Connect
 
-> **Learn → Build → Break → Debug → Improve → Repeat**
+<div align="center">
 
-I believe the best way to learn software development is by building real projects, solving problems, understanding failures, and continuously improving.
+<a href="https://github.com/Akash-as-07">
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github" />
+</a>
 
-### My approach
+<a href="https://github.com/Akash-as-07/portfolio-website">
+<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-* 🧠 Learn the fundamentals
-* 🛠️ Build practical projects
-* 🐛 Debug real problems
-* 🔍 Understand how systems work
-* ⚡ Improve performance and usability
-* 🔐 Think about security
-* 📚 Keep learning
+<br/><br/>
 
----
+### 💡 BUILD WITH PURPOSE. LEARN CONTINUOUSLY. ENGINEER THE FUTURE.
 
-# 🏆 What I'm Working Toward
+**Thanks for visiting my GitHub profile!**
 
-```text
-Student
-   ↓
-Web Developer
-   ↓
-Full-Stack Developer
-   ↓
-Software Developer
-   ↓
-Professional Engineer
-```
+⭐ Feel free to explore my repositories and follow my development journey.
 
-My long-term goal is to become a **skilled full-stack/software developer** capable of designing, developing, debugging, securing, and maintaining real-world applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=120&section=footer" width="100%" />
 
----
-
-# 📊 GitHub Activity & Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-as-07&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="Akash's GitHub Activity Graph">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-as-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Akash's GitHub Stats">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-as-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages">
-</p>
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-as-07/Akash-as-07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-as-07/Akash-as-07/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Akash-as-07/Akash-as-07/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-## 🚀 Development Activity
-
-<p align="center">
-
-**💻 Code**   •  
-**🧠 Learn**   •  
-**🐛 Debug**   •  
-**🚀 Build**   •  
-**📈 Improve**
-
-</p>
-
-# 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/Akash-as-07">
-    <img src="https://img.shields.io/badge/GitHub-Akash--as--07-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://github.com/Akash-as-07/portfolio-website">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
----
-
-# 💡 Developer Motto
-
-<p align="center">
-
-### **"Build with purpose. Learn continuously. Improve every day."**
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my GitHub profile!
-
-**Feel free to explore my repositories and follow my development journey.**
-
-</p>
+</div>
